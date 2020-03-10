@@ -11,7 +11,11 @@
 1. [[html] 浅析 HTML5 中的 download 属性](https://github.com/david2tdw/blog/issues/72)
 1. [[html] html的特殊字体显示](https://github.com/david2tdw/blog/issues/75)
 1. [[html] input框上 onchange() 和 onblur() 的区别](https://github.com/david2tdw/blog/issues/80)
-
+1. [[HTML] html标签嵌套规则](https://github.com/david2tdw/blog/issues/112)
+1. [[HTML] querySelectorAll 和 getElementsByXX 的区别](https://github.com/david2tdw/blog/issues/116)
+1. [[HTML] Element.getBoundingClientRect()](https://github.com/david2tdw/blog/issues/117)
+1. [[HTML] 判断一个元素是否包含另一个元素](https://github.com/david2tdw/blog/issues/119)
+1. [[HTML] HTML DOM classList 属性](https://github.com/david2tdw/blog/issues/120)
 ## JS相关：
 1. [[JS] - for ... in](https://github.com/david2tdw/blog/issues/7)
 1. [[JS] - Cookie path](https://github.com/david2tdw/blog/issues/18)
@@ -37,6 +41,22 @@
 1. [[js] this的指向](https://github.com/david2tdw/blog/issues/73)
 1. [[js] 严格模式](https://github.com/david2tdw/blog/issues/74)
 1. [[js] 递归](https://github.com/david2tdw/blog/issues/77)
+1. [[js] JS常用基础技巧](https://github.com/david2tdw/blog/issues/84)
+1. [[js] 判断滚动条位置](https://github.com/david2tdw/blog/issues/91)
+1. [[JS] export,export default和exports, module.exports](https://github.com/david2tdw/blog/issues/95)
+1. [[JS] JS中的继承](https://github.com/david2tdw/blog/issues/98)
+1. [[JS] 观察者模式 vs 发布订阅模式](https://github.com/david2tdw/blog/issues/99)
+1. [[JS] Object.create(null)](https://github.com/david2tdw/blog/issues/100)
+1. [[JS] JS中的call apply bind](https://github.com/david2tdw/blog/issues/101)
+1. [[JS] window.open()被浏览器拦截](https://github.com/david2tdw/blog/issues/107)
+1. [[JS] 数组合并](https://github.com/david2tdw/blog/issues/108)
+1. [[JS] JS数组对象去重](https://github.com/david2tdw/blog/issues/109)
+1. [[CSS] checkbox框css实现](https://github.com/david2tdw/blog/issues/110)
+1. [[CSS] tips带有描边的小箭头](https://github.com/david2tdw/blog/issues/111)
+1. [[JS] js遍历数组和对象](https://github.com/david2tdw/blog/issues/121)
+1. [[JS] 闭包相关](https://github.com/david2tdw/blog/issues/123)
+1. [[JS] Promise相关](https://github.com/david2tdw/blog/issues/124)
+1. [[JS] instanceof 和 typeof 的实现原理](https://github.com/david2tdw/blog/issues/126)
 ## CSS相关：
 1. [[CSS] - CSS3 rem 单位](https://github.com/david2tdw/blog/issues/1)
 1. [[CSS] - SASS学习1](https://github.com/david2tdw/blog/issues/2)
@@ -63,6 +83,32 @@
 1. [[css] CSS动画](https://github.com/david2tdw/blog/issues/70)
 1. [[CSS] Flex布局中padding-right 右对齐的问题](https://github.com/david2tdw/blog/issues/81)
 1. [[CSS] css选择器](https://github.com/david2tdw/blog/issues/82)
+1. [[CSS] 文字两端对齐](https://github.com/david2tdw/blog/issues/87)
+1. [[CSS] CSS Footer固定底部](https://github.com/david2tdw/blog/issues/88)
+1. [[CSS] loading](https://github.com/david2tdw/blog/issues/96)
+1. [[CSS] CSS自定义变量](https://github.com/david2tdw/blog/issues/97)
+1. [[CSS] css分隔线](https://github.com/david2tdw/blog/issues/102)
+1. [[CSS] Grid网格布局](https://github.com/david2tdw/blog/issues/103)
+1. [[CSS] 图片文字垂直居中问题](https://github.com/david2tdw/blog/issues/104)
+1. [[CSS] div水平垂直居中](https://github.com/david2tdw/blog/issues/105)
+1. [[CSS] \<li\>之间的空白间隙问题](https://github.com/david2tdw/blog/issues/106)
+1. [[CSS] css权重](https://github.com/david2tdw/blog/issues/115)
+1. [[css] 清除浮动](https://github.com/david2tdw/blog/issues/125)
+1. [[CSS] 瀑布流布局](https://github.com/david2tdw/blog/issues/127)
+1. [[CSS] 多方案实现跨行或跨列布局](https://github.com/david2tdw/blog/issues/128)
+1. [[css] 多种方案实现单列等宽，其他多列自适应均匀布局](https://github.com/david2tdw/blog/issues/129)
+1. [[CSS] 多种方式实现多列等高的方法](https://github.com/david2tdw/blog/issues/130)
+1. [[CSS] float元素顺序对布局的影响](https://github.com/david2tdw/blog/issues/131)
+1. [[CSS] 圣杯布局](https://github.com/david2tdw/blog/issues/132)
+1. [[CSS] position: relative;对层级的影响](https://github.com/david2tdw/blog/issues/133)
+1. [[CSS] 双飞翼布局](https://github.com/david2tdw/blog/issues/134)
+1. [[CSS] 波浪动画](https://github.com/david2tdw/blog/issues/135)
+1. [[CSS] 波浪百分比图](https://github.com/david2tdw/blog/issues/136)
+1. [[CSS] 充电动画](https://github.com/david2tdw/blog/issues/137)
+1. [[CSS] 用CSS实现tab切换](https://github.com/david2tdw/blog/issues/138)
+1. [[CSS] 纯 CSS 方式控制动画的暂停与播放](https://github.com/david2tdw/blog/issues/139)
+1. [[CSS] css布局长宽比固定自适应布局](https://github.com/david2tdw/blog/issues/140)
+1. [[CSS] 饼图](https://github.com/david2tdw/blog/issues/141)
 
 ## Vue相关：
 1. [[VUE] - vue 2.0 transition](https://github.com/david2tdw/blog/issues/16)
@@ -73,13 +119,17 @@
 1. [[VUE] axios和proxyTable集成](https://github.com/david2tdw/blog/issues/49)
 1. [[VUE] CSS样式穿透](https://github.com/david2tdw/blog/issues/53)
 1. [[VUE] element-ui - 修改<el-checkbox>的选中状态](https://github.com/david2tdw/blog/issues/58)
-
+1. [[Vue] vue动态加载本地图片](https://github.com/david2tdw/blog/issues/85)
+1. [[Vue] js加密解密](https://github.com/david2tdw/blog/issues/86)
+1. [[vue] axios相关](https://github.com/david2tdw/blog/issues/118)
+1. [[Vue] vue滚动吸顶](https://github.com/david2tdw/blog/issues/122)
+  
 ## 网络相关：
 1. [[网络] HTTP基本知识、跨域、缓存和调试技巧](https://github.com/david2tdw/blog/issues/55)
 1. [[http] XMLHttpRequest 上传 下载 ](https://github.com/david2tdw/blog/issues/61)
 1. [[http] Web安全](https://github.com/david2tdw/blog/issues/65)
 1. [[Browse] 重绘与回流](https://github.com/david2tdw/blog/issues/69)
-
+1. [[浏览器] 浏览器兼容性设置](https://github.com/david2tdw/blog/issues/90)
 
 ## 工具相关：
 1. [[GIT] - 命令行向远程仓库推送](https://github.com/david2tdw/blog/issues/5)
@@ -90,11 +140,14 @@
 1. [[GIT] GIT命令相关](https://github.com/david2tdw/blog/issues/50)
 1. [[node] node命令相关](https://github.com/david2tdw/blog/issues/78)
 1. [[调试] Chrome相关](https://github.com/david2tdw/blog/issues/79)
+1. [[vscode] prettier插件的设置](https://github.com/david2tdw/blog/issues/89)
+1. [[vscode] vscode快捷键](https://github.com/david2tdw/blog/issues/94)
+1. [[nginx] nginx](https://github.com/david2tdw/blog/issues/113)
 
 ## 构建、打包相关：
 1. [[WebPack] 脚手架相关](https://github.com/david2tdw/blog/issues/66)
 1. [[webpack] Webpack 是怎样运行的](https://github.com/david2tdw/blog/issues/71)
-
+1. [[webpack] favicon打包到不同位置](https://github.com/david2tdw/blog/issues/93)
 
 ## 小程序相关：
 1. [[小程序] mpvue引入vant weapp ui 注意事项](https://github.com/david2tdw/blog/issues/40)
@@ -104,7 +157,11 @@
 
 ## Flutter相关:
 1. [[Flutter] Flutter相关](https://github.com/david2tdw/blog/issues/63)
+1. [[Dart] Dart相关](https://github.com/david2tdw/blog/issues/92)
 
 ## 其他：
 1. [[firefox] firefox浏览器强制取消自动更新](https://github.com/david2tdw/blog/issues/60)
 1. [[vba] vba相关](https://github.com/david2tdw/blog/issues/76)
+1. [[编码] Unicode和ASCII转换](https://github.com/david2tdw/blog/issues/83)
+1. [特殊字符 编码相关](https://github.com/david2tdw/blog/issues/114)
+
