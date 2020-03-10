@@ -27,7 +27,7 @@
 1. [[CSS] - :before :after z-index](https://github.com/david2tdw/blog/issues/12)
 1. [[CSS] - em VS rem](https://github.com/david2tdw/blog/issues/13)
 1. [[CSS] - flex](https://github.com/david2tdw/blog/issues/14)
-1. [[CSS] - <transition>](https://github.com/david2tdw/blog/issues/15)
+1. [[CSS] - transition](https://github.com/david2tdw/blog/issues/15)
 1. [[CSS] - nth-child() vs nth-of-type()](https://github.com/david2tdw/blog/issues/17)
 1. [[CSS] Grid布局 VS Flexbox布局](https://github.com/david2tdw/blog/issues/25)
 
