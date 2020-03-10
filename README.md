@@ -51,8 +51,6 @@
 1. [[JS] window.open()被浏览器拦截](https://github.com/david2tdw/blog/issues/107)
 1. [[JS] 数组合并](https://github.com/david2tdw/blog/issues/108)
 1. [[JS] JS数组对象去重](https://github.com/david2tdw/blog/issues/109)
-1. [[CSS] checkbox框css实现](https://github.com/david2tdw/blog/issues/110)
-1. [[CSS] tips带有描边的小箭头](https://github.com/david2tdw/blog/issues/111)
 1. [[JS] js遍历数组和对象](https://github.com/david2tdw/blog/issues/121)
 1. [[JS] 闭包相关](https://github.com/david2tdw/blog/issues/123)
 1. [[JS] Promise相关](https://github.com/david2tdw/blog/issues/124)
@@ -109,6 +107,8 @@
 1. [[CSS] 纯 CSS 方式控制动画的暂停与播放](https://github.com/david2tdw/blog/issues/139)
 1. [[CSS] css布局长宽比固定自适应布局](https://github.com/david2tdw/blog/issues/140)
 1. [[CSS] 饼图](https://github.com/david2tdw/blog/issues/141)
+1. [[CSS] checkbox框css实现](https://github.com/david2tdw/blog/issues/110)
+1. [[CSS] tips带有描边的小箭头](https://github.com/david2tdw/blog/issues/111)
 
 ## Vue相关：
 1. [[VUE] - vue 2.0 transition](https://github.com/david2tdw/blog/issues/16)
