@@ -56,7 +56,8 @@
 1. [[JS] Promise相关](https://github.com/david2tdw/blog/issues/124)
 1. [[JS] instanceof 和 typeof 的实现原理](https://github.com/david2tdw/blog/issues/126)
 1. [[JS] js aliase DOM API](https://github.com/david2tdw/blog/issues/147)
-1. S] JS中this的使用](https://github.com/david2tdw/blog/issues/151)
+1. [[JS] JS中this的使用](https://github.com/david2tdw/blog/issues/151)
+
 ## CSS相关：
 1. [[CSS] - CSS3 rem 单位](https://github.com/david2tdw/blog/issues/1)
 1. [[CSS] - SASS学习1](https://github.com/david2tdw/blog/issues/2)
