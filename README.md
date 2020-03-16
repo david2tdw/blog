@@ -55,6 +55,8 @@
 1. [[JS] 闭包相关](https://github.com/david2tdw/blog/issues/123)
 1. [[JS] Promise相关](https://github.com/david2tdw/blog/issues/124)
 1. [[JS] instanceof 和 typeof 的实现原理](https://github.com/david2tdw/blog/issues/126)
+1. [[JS] js aliase DOM API](https://github.com/david2tdw/blog/issues/147)
+1. S] JS中this的使用](https://github.com/david2tdw/blog/issues/151)
 ## CSS相关：
 1. [[CSS] - CSS3 rem 单位](https://github.com/david2tdw/blog/issues/1)
 1. [[CSS] - SASS学习1](https://github.com/david2tdw/blog/issues/2)
@@ -162,6 +164,14 @@
 ## 算法相关：
 
 ## 设计模式相关：
+1. [[Pattern] 设计模式总览](https://github.com/david2tdw/blog/issues/142)
+1. [[Pattern] 单例模式](https://github.com/david2tdw/blog/issues/143)
+1. [[Pattern] 策略模式](https://github.com/david2tdw/blog/issues/144)
+1. [[Pattern] 代理模式](https://github.com/david2tdw/blog/issues/145)
+1. [[Pattern] 中介者模式](https://github.com/david2tdw/blog/issues/146)
+1. [[Pattern] 装饰者模式](https://github.com/david2tdw/blog/issues/148)
+1. [[Pattern] 发布-订阅模式](https://github.com/david2tdw/blog/issues/149)
+1. [[Pattern] 观察者模式](https://github.com/david2tdw/blog/issues/150)
 
 ## 其他：
 1. [[firefox] firefox浏览器强制取消自动更新](https://github.com/david2tdw/blog/issues/60)
